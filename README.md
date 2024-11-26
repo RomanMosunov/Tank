@@ -1,4 +1,6 @@
 # Tank
+Youtube tutorial:
+https://www.youtube.com/playlist?list=PLovuuyhVlDZgUcQG8ft7gmBCuzVlIqkZj
 
 Developed with Unreal Engine 5. 
 How to open project:
